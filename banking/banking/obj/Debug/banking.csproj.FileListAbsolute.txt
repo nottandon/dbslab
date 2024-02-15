@@ -1,0 +1,11 @@
+D:\220911316\lab2\banking\banking\bin\Debug\banking.exe.config
+D:\220911316\lab2\banking\banking\bin\Debug\banking.exe
+D:\220911316\lab2\banking\banking\bin\Debug\banking.pdb
+D:\220911316\lab2\banking\banking\obj\Debug\banking.Form1.resources
+D:\220911316\lab2\banking\banking\obj\Debug\banking.Form2.resources
+D:\220911316\lab2\banking\banking\obj\Debug\banking.Properties.Resources.resources
+D:\220911316\lab2\banking\banking\obj\Debug\banking.csproj.GenerateResource.Cache
+D:\220911316\lab2\banking\banking\obj\Debug\banking.exe
+D:\220911316\lab2\banking\banking\obj\Debug\banking.pdb
+D:\220911316\lab2\banking\banking\obj\Debug\banking.Form3.resources
+D:\220911316\lab2\banking\banking\obj\Debug\banking.Form4.resources

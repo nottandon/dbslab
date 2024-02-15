@@ -1,0 +1,9 @@
+D:\220911316\lab2\textpad\textpad\bin\Debug\textpad.exe.config
+D:\220911316\lab2\textpad\textpad\bin\Debug\textpad.exe
+D:\220911316\lab2\textpad\textpad\bin\Debug\textpad.pdb
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.csprojResolveAssemblyReference.cache
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.Form1.resources
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.Properties.Resources.resources
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.csproj.GenerateResource.Cache
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.exe
+D:\220911316\lab2\textpad\textpad\obj\Debug\textpad.pdb
